@@ -1,6 +1,9 @@
 # Darayo Web App (quasar-project-ts)
 
-This project web app is for okir and darayo org.
+This web app project is for portfolio purposes
+
+## See Demo
+Demo here -> (https://meranaw-folktales.web.app/).
 
 ## Install the dependencies
 ```bash
