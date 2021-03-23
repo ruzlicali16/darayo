@@ -3,7 +3,7 @@
 This web app project is for portfolio purposes
 
 ## Demo
-Demo here [click here] -> (https://meranaw-folktales.web.app/).
+Demo here [click here](https://meranaw-folktales.web.app/).
 
 ## Install the dependencies
 ```bash
