@@ -2,8 +2,8 @@
 
 This web app project is for portfolio purposes
 
-## See Demo
-Demo here -> (https://meranaw-folktales.web.app/).
+## Demo
+Demo here [click here] -> (https://meranaw-folktales.web.app/).
 
 ## Install the dependencies
 ```bash
